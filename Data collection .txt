@@ -1,11 +1,29 @@
 Data collection
 
-Data collection is the systematic approach to gathering and measuring information from a variety of sources to get a complete and accurate picture of an area of interest. Data collection enables a person or organization to answer relevant questions, evaluate outcomes and make predictions about future probabilities and trends.
+Data collection is the systematic approach to gathering and measuring information from
+a variety of sources to get a complete and accurate picture of an area of interest. Data
+collection enables a person or organization to answer relevant questions, evaluate 
+outcomes and make predictions about future probabilities and trends.
 
-Accurate data collection is essential to maintaining the integrity of research, making informed business decisions and ensuring quality assurance. For example, in retail sales, data might be collected from mobile applications, website visits, loyalty programs and online surveys to learn more about customers. In a server consolidation project, data collection would include not just a physical inventory of all servers, but also an exact description of what is installed on each server -- the operating system, middleware and the application or database that the server supports. 
+Accurate data collection is essential to maintaining the integrity of research, making 
+informed business decisions and ensuring quality assurance. For example, in retail sales,
+data might be collected from mobile applications, website visits, loyalty programs and
+online surveys to learn more about customers. In a server consolidation project, data 
+collection would include not just a physical inventory of all servers, but also an 
+exact description of what is installed on each server -- the operating system, 
+middleware and the application or database that the server supports. 
 
 Big data and data collection
-Big data describes voluminous amounts of structured, semi-structured and unstructured data collected by organizations. But because it takes a lot of time and money to load big data into a traditional relational database for analysis, new approaches for collecting and analyzing data have emerged. To gather and then mine big data for information, raw data with extended metadata is aggregated in a data lake. From there, machine learning and artificial intelligence programs use complex algorithms to look for repeatable patterns. 
+Big data describes voluminous amounts of structured, semi-structured and unstructured
+data collected by organizations. But because it takes a lot of time and money to load
+big data into a traditional relational database for analysis, new approaches for 
+collecting and analyzing data have emerged. To gather and then mine big data for
+information, raw data with extended metadata is aggregated in a data lake. From there,
+machine learning and artificial intelligence programs use complex algorithms to look
+for repeatable patterns. 
 
 Types of data
-Generally, there are two types of data: quantitative data and qualitative data. Quantitative data is any data that is in numerical form -- e.g., statistics and percentages. Qualitative data is descriptive data -- e.g., color, smell, appearance and quality.
+Generally, there are two types of data: quantitative data and qualitative data. 
+Quantitative data is any data that is in numerical form -- e.g., statistics and 
+percentages. Qualitative data is descriptive data -- e.g., color, smell, appearance 
+and quality.
